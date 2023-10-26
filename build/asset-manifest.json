@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9063f6ea.css",
-    "main.js": "/static/js/main.e9659dd5.js",
-    "static/js/787.e56f57c5.chunk.js": "/static/js/787.e56f57c5.chunk.js",
-    "static/media/pexels-hasibullah-zhowandai-819530.jpg": "/static/media/pexels-hasibullah-zhowandai-819530.8864f0da2c0c885a6375.jpg",
-    "index.html": "/index.html",
-    "main.9063f6ea.css.map": "/static/css/main.9063f6ea.css.map",
-    "main.e9659dd5.js.map": "/static/js/main.e9659dd5.js.map",
-    "787.e56f57c5.chunk.js.map": "/static/js/787.e56f57c5.chunk.js.map"
+    "main.css": "/react-components/build/static/css/main.aa181cd5.css",
+    "main.js": "/react-components/build/static/js/main.b9ee0e00.js",
+    "static/js/787.e56f57c5.chunk.js": "/react-components/build/static/js/787.e56f57c5.chunk.js",
+    "static/media/pexels-hasibullah-zhowandai-819530.jpg": "/react-components/build/static/media/pexels-hasibullah-zhowandai-819530.8864f0da2c0c885a6375.jpg",
+    "index.html": "/react-components/build/index.html",
+    "main.aa181cd5.css.map": "/react-components/build/static/css/main.aa181cd5.css.map",
+    "main.b9ee0e00.js.map": "/react-components/build/static/js/main.b9ee0e00.js.map",
+    "787.e56f57c5.chunk.js.map": "/react-components/build/static/js/787.e56f57c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9063f6ea.css",
-    "static/js/main.e9659dd5.js"
+    "static/css/main.aa181cd5.css",
+    "static/js/main.b9ee0e00.js"
   ]
 }
