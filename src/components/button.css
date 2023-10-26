@@ -1,0 +1,14 @@
+.style {
+    background-color: #005073;
+    transition: 0.3s ease;
+}
+
+.style:hover {
+    opacity: 0.8;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,24 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import MyButton from "./components/button";
+import MyCard from "./components/card";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <section className="center">
+        <h1>We love react!</h1>
+        <div>
+        <MyButton/>
+        <MyButton/>
+        </div>
+      </section>
+      <main className="center-2">
+        <MyCard/>
+        <MyCard/>
+        <MyCard/>
+        <MyCard/>
+      </main>
     </div>
   );
 }
